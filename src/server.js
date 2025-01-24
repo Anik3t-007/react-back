@@ -13,5 +13,5 @@ app.use(bodyParser.json())
 endpoints(app)
 
 app.listen(3001, () => {
-  console.log('Server started at http://13.229.65.4:3000')
+  console.log('Server started at http://3.95.176.250:3000')
 })
